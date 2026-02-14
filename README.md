@@ -1,1 +1,1 @@
-# Weather 
+# ai-powered navigation & weather-aware assistant 
